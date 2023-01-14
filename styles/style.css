@@ -320,10 +320,11 @@ hr {
 
     .f-products{
         align-items: center;
+        margin: 20px;
     }
     
     .f-photo {
-        scale: 90%;
+        scale: 75%;
     }
     .sponsored-icon {
         flex-direction: column;
@@ -332,7 +333,8 @@ hr {
         scale: 70%;
     }
     .footer {
-        margin-top: 30px;
+        margin-top: 5px;
+        width: 100%;
     }
    
 
